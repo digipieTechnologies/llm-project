@@ -1,0 +1,3 @@
+county,state,city,zip_code,features,property_type,asking_price,investment_type,size of property,gla,commercial_type
+DeKalb,Georgia,Chamblee,30341,"parking area, store room, canteen",retail,234567,Stabilized,8000,8000,consumer level
+Plumas,California,Chester,96020,None,Mixed Use,32456,Redevelopment,9000,9000,commercial business environment
